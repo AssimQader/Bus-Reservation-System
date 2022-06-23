@@ -1,0 +1,32 @@
+    
+   Hello there, we have more than 20 top rated buses in our "Almaza Bus Reservation Company", 
+
+   and here are the Avilable buses IDs, its luxury class, and the cost for each bus, 
+
+   choose the one you want and leave the rest to us. 
+
+   whish a safe travelling for you :)
+   
+  BUS_ID   L.C        COST
+____________________________
+   100     AC        100$                       
+   200     ORD       40$                      
+   300     AC        120$   
+   400     AC        90$   
+   500     ORD       25$
+   600     AC        150$ 
+   700     AC        130$    
+   800     ORD       77$
+   900     AC        110$ 
+   110     ORD       60$    
+   220     ORD       90$ 
+   330     ORD       56$  
+   440     AC        200$
+   550     AC        149$
+   660     ORD       20$ 
+   770     ORD       83$
+   880     ORD       15$
+   990     AC        229$
+   010     AC        259$
+   011     AC        300$
+=================================
